@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <h1>
+      Optimax Energy Challenge
+    </h1>
+    <div>
+      <button>
+        Add Grid
+      </button>
+      <div
+        class="react-grid-layout"
+        style="height: 2910px;"
+      >
+        <div
+          class="react-grid-item gridItem react-draggable cssTransforms react-resizable"
+          data-grid="[object Object]"
+          style="width: 453px; height: 1170px; position: absolute; transform: translate(20px,20px);"
+        >
+          <button
+            class="removeButton"
+          >
+            x
+          </button>
+          <div>
+            grid1
+          </div>
+          <span
+            class="react-resizable-handle react-resizable-handle-se"
+          />
+        </div>
+        <div
+          class="react-grid-item gridItem react-draggable cssTransforms react-resizable"
+          data-grid="[object Object]"
+          style="width: 768px; height: 320px; position: absolute; transform: translate(493px,2230px);"
+        >
+          <button
+            class="removeButton"
+          >
+            x
+          </button>
+          <div>
+            grid2
+          </div>
+          <span
+            class="react-resizable-handle react-resizable-handle-se"
+          />
+        </div>
+        <div
+          class="react-grid-item gridItem react-draggable cssTransforms react-resizable"
+          data-grid="[object Object]"
+          style="width: 610px; height: 320px; position: absolute; transform: translate(493px,2570px);"
+        >
+          <button
+            class="removeButton"
+          >
+            x
+          </button>
+          <div>
+            grid3
+          </div>
+          <span
+            class="react-resizable-handle react-resizable-handle-se"
+          />
+        </div>
+        <div
+          class="react-grid-item gridItem react-draggable cssTransforms react-resizable"
+          data-grid="[object Object]"
+          style="width: 925px; height: 1000px; position: absolute; transform: translate(335px,1210px);"
+        >
+          <button
+            class="removeButton"
+          >
+            x
+          </button>
+          <div>
+            grid4
+          </div>
+          <span
+            class="react-resizable-handle react-resizable-handle-se"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
